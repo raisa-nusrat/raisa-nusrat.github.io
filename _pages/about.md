@@ -2,9 +2,6 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from:
-/about/
-/about.html
 ---
 I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026. My research applies deep learning to medical diagnosis, with a focus on detecting neurological conditions such as stroke from facial images and routine clinical data. I have built clinical datasets from real hospital records, obtained ethics approval for patient data collection, and developed multimodal models validated on held-out patients. I am seeking a PhD position starting Fall 2027.
 Research Interests

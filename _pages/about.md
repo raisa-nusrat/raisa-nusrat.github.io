@@ -11,14 +11,7 @@ I am an Electrical and Electronic Engineering graduate from Bangladesh Universit
 
 **I am seeking a PhD position starting Fall 2027.**
 
-## News
 
-- **Sep 2026:** Paper on federated intrusion detection for the Internet of Medical Things submitted to ICECE 2026.
-- **Sep 2026:** Abstract on deep reinforcement learning for traffic signal control accepted at the AABEA 2026 Biennial Convention.
-- **Sep 2026:** Motorcycle theft detection paper accepted in the Journal of the EEE Division, IEB.
-- **Sep 2026:** Stroke detection paper submitted to *IEEE Journal of Biomedical and Health Informatics*.
-- **Sep 2026:** Clinical study approved by the BUET Ethical Review Committee and funded by a RISE Basic Research Grant.
-- **Jun 2026:** Completed B.Sc. in EEE at BUET.
 
 ## Selected Publications
 

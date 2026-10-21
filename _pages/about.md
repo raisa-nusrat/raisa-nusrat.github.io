@@ -78,3 +78,8 @@ Satellite communication, high-power RF transmission, and studio broadcasting ele
 
 **B.Sc. in Electrical and Electronic Engineering**  
 Bangladesh University of Engineering and Technology (BUET), 2026
+
+## Contact
+
+**Email:** [raisanusrat0@gmail.com](mailto:raisanusrat0@gmail.com)  
+**Institutional email:** [2006132@eee.buet.ac.bd](mailto:2006132@eee.buet.ac.bd)

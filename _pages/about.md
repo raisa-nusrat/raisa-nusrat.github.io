@@ -7,7 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET), where I completed my B.Sc. in June 2026. My research applies deep learning to medical diagnosis, with a focus on detecting neurological conditions such as stroke from facial images and routine clinical data. I have built clinical datasets from real hospital records, obtained ethics approval for patient data collection, and developed multimodal models validated on held-out patients. I am seeking a PhD position starting Fall 2027.
+I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET) working on **trustworthy multimodal AI for neurological diagnosis**. For my undergraduate thesis, I built a 117-patient clinical dataset from hospital records in Dhaka and developed a Siamese CNN and clinical-data fusion model for stroke detection, validated on held-out external patients (paper under review at *IEEE Journal of Biomedical and Health Informatics*). I am now leading an ethics-approved clinical study (BUET ERC, Ref. BUET/ERC/2026/01), funded by a RISE Basic Research Grant, that combines facial imaging with blood biomarkers.
+
+**I am seeking a PhD position starting Fall 2027.**
+
+## News
+
+- **Sep 2026:** Paper on federated intrusion detection for the Internet of Medical Things submitted to ICECE 2026.
+- **Sep 2026:** Abstract on deep reinforcement learning for traffic signal control accepted at the AABEA 2026 Biennial Convention.
+- **Sep 2026:** Motorcycle theft detection paper accepted in the Journal of the EEE Division, IEB.
+- **Sep 2026:** Stroke detection paper submitted to *IEEE Journal of Biomedical and Health Informatics*.
+- **Sep 2026:** Clinical study approved by the BUET Ethical Review Committee and funded by a RISE Basic Research Grant.
+- **Jun 2026:** Completed B.Sc. in EEE at BUET.
+
+## Selected Publications
+
+1. **R. Nusrat**, M. R. Rahman, I. J. Riya, and M. Faisal, "Age-Robust Stroke Detection and Paretic-Side Identification Using Nasolabial Fold Asymmetry and Clinical Data," *IEEE Journal of Biomedical and Health Informatics*, under review, 2026.
+2. **R. Nusrat**, "Rare-Attack Blindness in Federated Intrusion Detection for the Internet of Medical Things," *ICECE 2026*, under review.
+3. **R. Nusrat**, "When Scale Flips the Answer: Corridor-Level Deep Reinforcement Learning for Traffic Signal Control on a Simulated Dhaka Arterial," *AABEA 2026 Biennial Convention*, abstract accepted.
+4. **R. Nusrat**, M. S. Raihan, S. M. R. Rahman, H. Saha, and S. S. Ahbab, "A Low-Cost Integrated Motorcycle Theft Detection and Monitoring System Using Arduino, ESP32-CAM, and GSM/GPS Technologies," *Journal of the EEE Division, IEB*, accepted, 2026.
+
+The full list, thesis details, and manuscripts in preparation are on the [Research](/research/) page.
 
 ## Research Interests
 
@@ -17,17 +37,19 @@ I am an Electrical and Electronic Engineering graduate from Bangladesh Universit
 - Explainable and Generalizable Healthcare AI
 - Bio-Inspired Robotics and Autonomous Drones
 
-My publications and thesis are on the [Research](/research/) page.
-
 ## Selected Projects
 
-**HIVE-R: Bio-Inspired Rescue Drone for GPS-Denied Environments**  
-*Pixhawk, Raspberry Pi, YOLOv8*  
-Swarm-inspired drone using camera-IMU visual odometry for navigation and YOLOv8-Nano human detection with fuzzy augmentation for low-visibility conditions.
+**Stroke Detection from Facial Asymmetry and Clinical Data** (Undergraduate Thesis)  
+*PyTorch, EfficientNet-B0, explainable AI*  
+Siamese network comparing left and right facial regions around the nasolabial folds, fused with a model on 38 routine laboratory features, and tested on held-out external patients.
 
 **Multi-Modal Parkinson's Disease Detection**  
 *Python, machine learning*  
 Detection from speech, gait, and handwriting with late fusion.
+
+**HIVE-R: Bio-Inspired Rescue Drone for GPS-Denied Environments**  
+*Pixhawk, Raspberry Pi, YOLOv8*  
+Swarm-inspired drone using camera-IMU visual odometry for navigation and YOLOv8-Nano human detection with fuzzy augmentation for low-visibility conditions.
 
 **Motorcycle Theft Detection and Monitoring System**  
 *Arduino, ESP32-CAM, GSM/GPS*  
@@ -49,8 +71,8 @@ Details, figures, and more projects are on the [Projects](/portfolio/) page.
 **Mathematics Tutor (International)** — 2026 – Present  
 Teaching students in Australia on the Edexcel curriculum.
 
-**Undergraduate Academic Consultant (International)** — 2024 – 2025  
-Online instruction for EEE and Mathematics students at Stony Brook University, USA: circuit analysis, signals and systems, and advanced calculus.
+**Private Tutor (International)** — 2024 – 2025  
+One-on-one online tutoring for a Stony Brook University (USA) undergraduate in circuit analysis, signals and systems, and advanced calculus.
 
 **Content Developer and Academic Support, Udvash Academic & Admission Care** — 2022 – 2023  
 Wrote conceptual questions and provided real-time online Q&A support.
@@ -77,7 +99,9 @@ Satellite communication, high-power RF transmission, and studio broadcasting ele
 ## Education
 
 **B.Sc. in Electrical and Electronic Engineering**  
-Bangladesh University of Engineering and Technology (BUET), 2026
+Bangladesh University of Engineering and Technology (BUET), 2020 – June 2026  
+Thesis: *A Multimodal Deep Learning Framework for Stroke Detection from Facial Asymmetry and Clinical Data with Explainable AI and External Validation*  
+Supervisor: Dr. Mohammad Faisal, Professor, Department of EEE, BUET
 
 ## Contact
 

@@ -37,6 +37,8 @@ PIN-locked ignition, live camera view, and GPS/SMS tracking in a working prototy
 *PID control, embedded systems*  
 Line-following robot with PID control and object detection for collecting waste.
 
+Details, figures, and more projects are on the [Projects](/portfolio/) page.
+
 ## Other Projects
 
 - **Signal Processing:** Noise cancellation using LMS and RLS adaptive filters, compared by SNR and mean squared error.

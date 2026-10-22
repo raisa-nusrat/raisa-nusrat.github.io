@@ -13,11 +13,11 @@ I am an Electrical and Electronic Engineering graduate from Bangladesh Universit
 
 ## News
 
-- **Oct 2026:** Stroke detection paper submitted to *IEEE Journal of Biomedical and Health Informatics*.
-- **Sep 2026:** Motorcycle theft detection paper accepted in the *Journal of the EEE Division, IEB*.
-- **Sep 2026:** Paper on rare-attack blindness in federated IoMT intrusion detection submitted to ICECE 2026.
+- **Oct 2026:** "Age-Robust Stroke Detection and Paretic-Side Identification Using Nasolabial Fold Asymmetry and Clinical Data" submitted to *IEEE Journal of Biomedical and Health Informatics*; under review.
+- **Sep 2026:** "A Low-Cost Integrated Motorcycle Theft Detection and Monitoring System Using Arduino, ESP32-CAM, and GSM/GPS Technologies" accepted in the *Journal of the EEE Division, IEB*.
+- **Sep 2026:** "Rare-Attack Blindness in Federated Intrusion Detection for the Internet of Medical Things" submitted to ICECE 2026; under review.
 - **Aug 2026:** BUET Ethical Review Committee approval and RISE Basic Research Grant for a multimodal stroke study.
-- **Jul 2026:** Abstract accepted at the AABEA 2026 Biennial Convention.
+- **Jul 2026:** Abstract accepted at the AABEA 2026 Biennial Convention for "When Scale Flips the Answer: Corridor-Level Deep Reinforcement Learning for Traffic Signal Control on a Simulated Dhaka Arterial"; full paper under review.
 - **Jun 2026:** Completed B.Sc. in EEE at BUET.
 
 ## Selected Publications

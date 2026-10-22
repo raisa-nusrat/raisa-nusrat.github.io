@@ -7,11 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET) working on **trustworthy multimodal AI for neurological diagnosis**. From my undergraduate thesis, I built a 181-patient clinical dataset from hospital records in Dhaka and developed a Siamese CNN and clinical-data fusion model for stroke detection (paper under review at *IEEE Journal of Biomedical and Health Informatics*). I am now leading an ethics-approved clinical study (BUET ERC, Ref. BUET/ERC/2026/01), funded by a RISE Basic Research Grant, that combines facial imaging with blood biomarkers.
+I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET) working on **trustworthy multimodal AI for neurological diagnosis**. Building on my undergraduate thesis, I expanded a clinical dataset from hospital records in Dhaka to 181 patients and developed a Siamese CNN and clinical-data fusion model for stroke detection (paper under review at *IEEE Journal of Biomedical and Health Informatics*). I am now leading an ethics-approved clinical study (BUET ERC, Ref. BUET/ERC/2026/01), funded by a RISE Basic Research Grant, that combines facial imaging with blood biomarkers.
 
 **I am seeking a PhD position starting Fall 2027.**
 
+## News
 
+- **Oct 2026:** Stroke detection paper submitted to *IEEE Journal of Biomedical and Health Informatics*.
+- **Sep 2026:** Motorcycle theft detection paper accepted in the *Journal of the EEE Division, IEB*.
+- **Sep 2026:** Paper on rare-attack blindness in federated IoMT intrusion detection submitted to ICECE 2026.
+- **Aug 2026:** BUET Ethical Review Committee approval and RISE Basic Research Grant for a multimodal stroke study.
+- **Jul 2026:** Abstract accepted at the AABEA 2026 Biennial Convention.
+- **Jun 2026:** Completed B.Sc. in EEE at BUET.
 
 ## Selected Publications
 
@@ -28,7 +35,7 @@ The full list, thesis details, and manuscripts in preparation are on the [Resear
 - Facial Analysis for Neurological Disorder Detection (stroke, ALS, Parkinson's disease)
 - Multimodal Clinical AI (imaging + clinical data fusion)
 - Explainable and Generalizable Healthcare AI
-- Bio-Inspired Robotics and Autonomous Drones
+- Bio-Inspired Robotics and Autonomous Systems
 
 ## Selected Projects
 
@@ -48,16 +55,7 @@ Swarm-inspired drone using camera-IMU visual odometry for navigation and YOLOv8-
 *Arduino, ESP32-CAM, GSM/GPS*  
 PIN-locked ignition, live camera view, and GPS/SMS tracking in a working prototype costing about 3800 BDT.
 
-**Autonomous Trash-Collecting Line-Following Robot**  
-*PID control, embedded systems*  
-Line-following robot with PID control and object detection for collecting waste.
-
 Details, figures, and more projects are on the [Projects](/portfolio/) page.
-
-## Other Projects
-
-- **Signal Processing:** Noise cancellation using LMS and RLS adaptive filters, compared by SNR and mean squared error.
-- **Power Systems:** Simulink model of a neighbourhood microgrid with intentional islanding during faults.
 
 ## Teaching Experience
 

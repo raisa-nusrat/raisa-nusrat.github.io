@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET) working on **trustworthy multimodal AI for neurological diagnosis**. Building on my undergraduate thesis, I expanded a clinical dataset from hospital records in Dhaka to 181 patients and developed a Siamese CNN and clinical-data fusion model for stroke detection (paper under review at *IEEE Journal of Biomedical and Health Informatics*). I am now leading an ethics-approved clinical study (BUET ERC, Ref. BUET/ERC/2026/01), funded by a RISE Basic Research Grant, that combines facial imaging with blood biomarkers.
+I am an Electrical and Electronic Engineering graduate from Bangladesh University of Engineering and Technology (BUET) working on **trustworthy multimodal AI for neurological diagnosis**. Building on my undergraduate thesis, I expanded a clinical dataset from hospital records in Dhaka to 181 inpatients and showed that nasolabial fold asymmetry detects stroke independently of age and identifies the paretic side (paper under review at *IEEE Journal of Biomedical and Health Informatics*). I am now leading an ethics-approved clinical study (BUET ERC, Ref. BUET/ERC/2026/01), funded by a RISE Basic Research Grant, that combines facial imaging with blood biomarkers.
 
 **I am seeking a PhD position starting Fall 2027.**
 

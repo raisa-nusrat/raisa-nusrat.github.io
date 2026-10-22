@@ -32,6 +32,8 @@ Stroke often causes visible facial asymmetry, but recognizing it quickly depends
 
 We trained a Siamese network that compares the left and right sides of the face around the nasolabial folds and mouth, alongside a clinical model using laboratory features, and fused the two. The image model reached an AUC of 0.983, and on 15 held-out external patients the fused model achieved 80% accuracy and 88.9% sensitivity.
 
+After the thesis, I expanded the dataset to 181 patients for the journal version of this work, now under review at *IEEE JBHI*.
+
 ## Ongoing Clinical Study
 
 **Multimodal Stroke Detection Using Facial Imaging and Blood Biomarker Analysis**  
